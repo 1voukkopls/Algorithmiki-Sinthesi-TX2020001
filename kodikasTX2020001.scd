@@ -1,4 +1,4 @@
-s.waitForBot {
+s.waitForBoot {
 
     SynthDef(\leadSynth, {
         |out=0, freq=440, dur=0.2, amp=0.5|
